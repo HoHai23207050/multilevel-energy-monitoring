@@ -11,8 +11,7 @@ This project helped the team achieve **Top 11 Finalist** in The NEXGen 2025 comp
 
 ## 🎥 Project Presentation
 
-[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=U9Njz0QgUYU))
-
+[![Watch the presentation](https://img.youtube.com/vi/U9Njz0QgUYU/0.jpg)](https://youtu.be/U9Njz0QgUYU)
 > 📌 Click the image above to watch the full presentation on YouTube.
 
 ---
