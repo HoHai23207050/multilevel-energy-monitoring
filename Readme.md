@@ -9,6 +9,14 @@ This project helped the team achieve **Top 11 Finalist** in The NEXGen 2025 comp
 
 ---
 
+## 🎥 Project Presentation
+
+[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=U9Njz0QgUYU))
+
+> 📌 Click the image above to watch the full presentation on YouTube.
+
+---
+
 ## ⚙️ System Architecture
 
 The system is designed with a **two-level (multi-level) monitoring approach**:
